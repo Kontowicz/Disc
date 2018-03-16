@@ -1,0 +1,18 @@
+﻿  Disc.cpp
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(95): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(144): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(234): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(251): warning C4018: '<': signed/unsigned mismatch
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(265): warning C4018: '<': signed/unsigned mismatch
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(270): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(284): warning C4018: '<': signed/unsigned mismatch
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(322): warning C4018: '<': signed/unsigned mismatch
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(335): warning C4018: '<': signed/unsigned mismatch
+c:\users\piotr kontowicz\desktop\dysk\dysk\disc.cpp(393): warning C4018: '<': signed/unsigned mismatch
+  Dysk.vcxproj -> C:\Users\Piotr Kontowicz\Desktop\Dysk\Debug\Dysk.exe
+  Dysk.vcxproj -> C:\Users\Piotr Kontowicz\Desktop\Dysk\Debug\Dysk.pdb (Partial PDB)
